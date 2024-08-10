@@ -1,0 +1,9 @@
+{
+	"name": "drillx-js",
+	"version": "0.0.1",
+	"description": "DrillX JS",
+	"main": "index.js",
+	"scripts": {
+		"build": "wasm-pack build --target web"
+	}
+}
